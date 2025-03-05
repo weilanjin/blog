@@ -2,7 +2,7 @@
 #   imports:
 #   - path: github.com/adityatelange/hugo-PaperMod
 
-baseURL: "https://weilanjin.github.io" 
+baseURL: "https://weilanjin.github.io/" 
 languageCode: zh-cn
 title: Lance blog
 pagination:
