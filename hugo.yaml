@@ -111,7 +111,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/weilanjin/blog"
+    URL: "https://github.com/weilanjin/weilanjin.github.io/edit/main/content/{{ .File.Path }}"
     Text: "edit" # edit text
     appendFilePath: true # to append file path to Edit link
 
